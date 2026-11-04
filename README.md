@@ -60,21 +60,3 @@ Negative
 Prompt engineering helps automatically identify customer opinions and understand customer satisfaction. It helps online shopping companies improve their products and services.
 
 
-OUTPUTS
-Output Examples – Sentiment Analysis
-S.No	Customer Review (Input)	Expected Output
-1	I love this product. The quality is excellent.	Positive
-2	The shoes are comfortable and beautiful.	Positive
-3	The seller provided excellent service.	Positive
-4	The camera stopped working after two days.	Negative
-5	I am disappointed with the poor packaging.	Negative
-6	The product quality is very poor.	Negative
-7	My order contains a blue shirt.	Neutral
-8	The product was delivered on Monday.	Neutral
-9	The package has three accessories.	Neutral
-10	The phone looks stylish, but the battery drains quickly.	Negative
-Prompt Testing
-S.No	Input	Output
-1	I purchased a laptop yesterday. It works perfectly.	Positive
-2	The product arrived late and was damaged.	Negative
-3	My package contains two books.	Neutral
